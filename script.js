@@ -4,7 +4,7 @@ document.getElementById('date').textContent = 'اليوم: ' + new Date().toLoca
 // دالة للترحيب
 function sayHello() {
     const messages = [
-        'مرحباً! 👋',
+        'اهلين! 👋',
         'كيفك؟ 😊',
         'أهلاً بك في موقعي! 🎉',
         'GitHub رائع جداً! 🚀'
